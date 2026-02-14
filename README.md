@@ -77,4 +77,5 @@ Certain departments show higher average length of stay
 Insurance contributes majority revenue share
 Doctor performance varies significantly across departments
 
+<img width="1364" height="748" alt="Screenshot 2026-02-12 001334" src="https://github.com/user-attachments/assets/3125502c-deb8-4f86-a6b0-2d9bdbb61479" />
 
