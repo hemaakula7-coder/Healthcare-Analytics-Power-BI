@@ -79,5 +79,6 @@ Doctor performance varies significantly across departments
 
 <img width="1364" height="748" alt="Screenshot 2026-02-12 001334" src="https://github.com/user-attachments/assets/3125502c-deb8-4f86-a6b0-2d9bdbb61479" />
 
-<img width="1364" height="748" alt="Screenshot 2026-02-12 001334" src="https://github.com/user-attachments/assets/b3bb5e17-7d5d-420e-bca8-898a20ebcd86" />
+<img width="1377" height="770" alt="Screenshot 2026-02-10 193927" src="https://github.com/user-attachments/assets/a64cbff7-2444-4a84-98db-420be7a96e06" />
+
 
