@@ -49,12 +49,12 @@ Risk classification using conditional logic
 Top N doctor performance ranking
 
 Advanced DAX functions used:
-CALCULATE
-AVERAGEX
-RANKX
-SAMEPERIODLASTYEAR
-DIVIDE
-IF
+CALCULATE,
+AVERAGEX,
+RANKX,
+SAMEPERIODLASTYEAR,
+DIVIDE,
+IF.
 
 📈 Dashboard Highlights:
 
